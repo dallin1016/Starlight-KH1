@@ -1,0 +1,12 @@
+title: Starlight KH1
+originalAuthor: dallin1016
+description: 'Replaces Spellbinder with Starlight from Kingdom Hearts Union X'
+assets:
+- name: remastered/xw_ex_5080.wpn/-cd40.cvbl
+  method: copy
+  source:
+  - name: remastered/xw_ex_5080.wpn/-cd40.cvbl
+- name: remastered/xw_ex_5080.wpn/-ce40.dds
+  method: copy
+  source:
+  - name: remastered/xw_ex_5080.wpn/-ce40.dds
